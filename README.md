@@ -1,4 +1,4 @@
-# mpsp_no_tweeter
+# @mpsp_oficial no Twitter
 
 1. Este Jupyter Notebook aborda o uso das bibliotecas Tweepy, NLTK e Pandas para consumo de dados da API do Twitter e sua análise.
 
